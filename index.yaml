@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  java-helloworld-app:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-01-10T12:28:05.352543911Z"
+    description: A Helm chart for Kubernetes
+    digest: c5a5710319f48cec38bbf43ec77a4e6dfca00f2c118baa6dc8fc18f6b5f5c7e0
+    name: java-helloworld-app
+    type: application
+    urls:
+    - https://tajgithub24.github.io/helloworld-helm-repo/java-helloworld-app-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-01-10T12:28:05.352041358Z"
