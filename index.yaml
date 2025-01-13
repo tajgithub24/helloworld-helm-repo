@@ -3,12 +3,12 @@ entries:
   helloworld-app:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-01-13T09:17:59.188758971Z"
+    created: "2025-01-13T09:30:17.117315046Z"
     description: A Helm chart for Kubernetes
-    digest: d54b4d5d248b1dfcb171674aadfdf755de9aa50e3d9c089d521b0b6ee4517b0d
+    digest: 87dbe12e277ce144adf845fbd3b3b5b0e7be2fd057783b877f9fcbc7da24c44d
     name: helloworld-app
     type: application
     urls:
     - https://tajgithub24.github.io/helloworld-helm-repo/helloworld-app-0.1.0.tgz
     version: 0.1.0
-generated: "2025-01-13T09:17:59.187294535Z"
+generated: "2025-01-13T09:30:17.116913048Z"
